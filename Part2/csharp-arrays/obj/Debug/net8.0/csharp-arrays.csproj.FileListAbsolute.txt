@@ -1,0 +1,14 @@
+D:\Vscode\Csharp\csharp-arrays\bin\Debug\net8.0\csharp-arrays.exe
+D:\Vscode\Csharp\csharp-arrays\bin\Debug\net8.0\csharp-arrays.deps.json
+D:\Vscode\Csharp\csharp-arrays\bin\Debug\net8.0\csharp-arrays.runtimeconfig.json
+D:\Vscode\Csharp\csharp-arrays\bin\Debug\net8.0\csharp-arrays.dll
+D:\Vscode\Csharp\csharp-arrays\bin\Debug\net8.0\csharp-arrays.pdb
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.AssemblyInfoInputs.cache
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.AssemblyInfo.cs
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.csproj.CoreCompileInputs.cache
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.dll
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\refint\csharp-arrays.dll
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.pdb
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\csharp-arrays.genruntimeconfig.cache
+D:\Vscode\Csharp\csharp-arrays\obj\Debug\net8.0\ref\csharp-arrays.dll

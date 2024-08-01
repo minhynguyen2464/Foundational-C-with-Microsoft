@@ -1,0 +1,14 @@
+D:\Vscode\Csharp\Challenge-4\bin\Debug\net8.0\Challenge-4.exe
+D:\Vscode\Csharp\Challenge-4\bin\Debug\net8.0\Challenge-4.deps.json
+D:\Vscode\Csharp\Challenge-4\bin\Debug\net8.0\Challenge-4.runtimeconfig.json
+D:\Vscode\Csharp\Challenge-4\bin\Debug\net8.0\Challenge-4.dll
+D:\Vscode\Csharp\Challenge-4\bin\Debug\net8.0\Challenge-4.pdb
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.AssemblyInfoInputs.cache
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.AssemblyInfo.cs
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.csproj.CoreCompileInputs.cache
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.dll
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\refint\Challenge-4.dll
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.pdb
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\Challenge-4.genruntimeconfig.cache
+D:\Vscode\Csharp\Challenge-4\obj\Debug\net8.0\ref\Challenge-4.dll
