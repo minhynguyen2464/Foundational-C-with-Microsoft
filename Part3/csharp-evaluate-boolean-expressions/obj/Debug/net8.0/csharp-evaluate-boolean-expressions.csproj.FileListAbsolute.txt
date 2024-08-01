@@ -1,0 +1,15 @@
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.exe
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.deps.json
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.runtimeconfig.json
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.dll
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.pdb
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.AssemblyInfoInputs.cache
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.AssemblyInfo.cs
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.csproj.CoreCompileInputs.cache
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.sourcelink.json
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.dll
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\refint\csharp-evaluate-boolean-expressions.dll
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.pdb
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.genruntimeconfig.cache
+D:\Vscode\Csharp\Foundational-C-with-Microsoft\Part3\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\ref\csharp-evaluate-boolean-expressions.dll
